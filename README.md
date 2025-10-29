@@ -19,9 +19,9 @@ The primary goal of this project was to replace static brochures and physical mo
 
 ## 🛠️ Technologies Used
 
-* **Frontend:** `[e.g., JavaScript, React.js, Vue.js, Leaflet.js, HTML5, CSS3]`
-* **Backend:** `[e.g., Node.js, PHP, Laravel (to serve the API)]`
-* **Database:** `[e.g., MySQL, PostgreSQL, Firebase (for real-time data
+* **Frontend:** `[JavaScript, HTML5, CSS3]`
+* **Backend:** `[ PHP]`
+* **Database:** `[MySQL]'
 
   ***Screenshoot***
   <img width="1189" height="929" alt="gambar" src="https://github.com/user-attachments/assets/dad5d8b1-d271-43e8-a3d5-2c99f3e95fa7" />
