@@ -25,4 +25,12 @@ The primary goal of this project was to replace static brochures and physical mo
 
   ***Screenshoot***
   <img width="1189" height="929" alt="gambar" src="https://github.com/user-attachments/assets/dad5d8b1-d271-43e8-a3d5-2c99f3e95fa7" />
+  <img width="1170" height="824" alt="gambar" src="https://github.com/user-attachments/assets/8d38df33-7c51-4f15-8cea-e98fcc6da481" />
+  <img width="1039" height="926" alt="gambar" src="https://github.com/user-attachments/assets/94be26bf-d550-4642-bf00-4b82dff09e7b" />
+  <img width="827" height="785" alt="gambar" src="https://github.com/user-attachments/assets/d8f6861d-6646-405d-913f-786fbd02ad91" />
+  <img width="994" height="781" alt="gambar" src="https://github.com/user-attachments/assets/97ed5cef-844f-436e-a0c8-5373d85fc4b1" />
+
+
+
+
  
